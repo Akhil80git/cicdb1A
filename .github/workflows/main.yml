@@ -23,4 +23,4 @@ jobs:
           context: .
           push: true
           # Yahan apni image ka naam likhein
-          tags: ${{ secrets.DOCKER_USERNAME }}/cicd1a:latest
+          tags: ${{ secrets.DOCKER_USERNAME }}/cicdb1a:latest
